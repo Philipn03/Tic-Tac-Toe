@@ -5,7 +5,7 @@
  
  For coordinates, type in the following format 'x y'
  
-The prompt after the game is finished should be “Do you want to play again?”
+The prompt after the game is finished with “Do you want to play again?”
 - “Y” or “y” should restart the game
 - “N” or “n” should exit the game
           
